@@ -1,0 +1,7 @@
+method,task,dataset,count,mean_input_tokens,em,f1
+RoPE,passage_retrieval_en,local:LongBench/passage_retrieval_en.jsonl,30,8192.0,0.0,0.04777441938567258
+RoPE,qasper,local:LongBench/qasper.jsonl,30,5076.3,0.2,0.11010714347600602
+YaRN_x2,passage_retrieval_en,local:LongBench/passage_retrieval_en.jsonl,30,8192.0,0.0,0.030087461715765207
+YaRN_x2,qasper,local:LongBench/qasper.jsonl,30,5076.3,0.2,0.10384429024559896
+LAOPPE_L2,passage_retrieval_en,local:LongBench/passage_retrieval_en.jsonl,30,8192.0,0.0,0.013510466988727855
+LAOPPE_L2,qasper,local:LongBench/qasper.jsonl,30,5076.3,0.16666666666666666,0.05898418756902208

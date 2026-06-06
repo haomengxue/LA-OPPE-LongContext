@@ -1,0 +1,241 @@
+method,seq_len,sample_id,key,hit,prediction
+RoPE,2048,0,HMN0000,1, HMN0000 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,1,HMN0001,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+RoPE,2048,2,HMN0002,1, HMN0002 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,3,HMN0003,1, HMN0003 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,4,HMN0004,1, HMN0004 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,5,HMN0005,1, HMN0005 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,6,HMN0006,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+RoPE,2048,7,HMN0007,1, HMN0007 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,8,HMN0008,1, HMN0008 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,9,HMN0009,0, 0009 is the secret passcode . 0009 is the secret passcode . 0009 is the secret passcode . 0009 is the
+RoPE,2048,10,HMN0010,1, HMN0010 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,11,HMN0011,1," HMN0011 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+RoPE,2048,12,HMN0012,1, HMN0012 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,14,HMN0014,1, HMN0014 .  1 2 3 4 5 6 7 8 9 0 1 2 3
+RoPE,2048,15,HMN0015,1, HMN0015 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,16,HMN0016,1, HMN0016 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,17,HMN0017,1, HMN0017 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,2048,18,HMN0018,1, HMN0018 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,2048,19,HMN0019,1, HMN0019 . 9 is the number of the secret passcode . 9 is the number of the secret passcode . 9 is the number
+RoPE,4096,0,HMN0000,1, HMN0000 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,4096,1,HMN0001,1, HMN0001 .  1 000 000 000 000 000 000 000 000 000 000 000 000
+RoPE,4096,2,HMN0002,1, HMN0002 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,4096,3,HMN0003,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+RoPE,4096,4,HMN0004,1, HMN0004 .  1 2 3 4 5 6 7 8 9 0 1 2 3
+RoPE,4096,5,HMN0005,1, HMN0005 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,4096,6,HMN0006,1, HMN0006 .  1 000 000 000 000 000 000 000 000 000 000 000 000
+RoPE,4096,7,HMN0007,1, HMN0007 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,4096,8,HMN0008,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+RoPE,4096,9,HMN0009,0, 0009 is the secret passcode . 0009 is the secret passcode . 0009 is the secret passcode . 0009 is the
+RoPE,4096,10,HMN0010,1, HMN0010 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,4096,11,HMN0011,1, HMN0011 . 1 = 1 × 10 9 = 1 × 10 9 × 1 × 10 9 =
+RoPE,4096,12,HMN0012,1, HMN0012 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,4096,13,HMN0013,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+RoPE,4096,14,HMN0014,1, HMN0014 .  1 2 3 4 5 6 7 8 9 0 1 2 3
+RoPE,4096,15,HMN0015,1, HMN0015 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,4096,16,HMN0016,1, HMN0016 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,4096,17,HMN0017,1, HMN0017 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,4096,18,HMN0018,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+RoPE,4096,19,HMN0019,1, HMN0019 . 9 is the number of the secret passcode . 9 is the number of the secret passcode . 9 is the number
+RoPE,8192,0,HMN0000,1, HMN0000 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,8192,1,HMN0001,1, HMN0001 .  1 0001 is the number of the 1st digit of the year 2012 .  1 000
+RoPE,8192,2,HMN0002,1, HMN0002 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,3,HMN0003,1, HMN0003 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,4,HMN0004,1, HMN0004 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,5,HMN0005,1, HMN0005 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+RoPE,8192,6,HMN0006,1, HMN0006 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,7,HMN0007,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+RoPE,8192,8,HMN0008,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+RoPE,8192,9,HMN0009,1, HMN0009 . 9 is the number of the 9th letter of the alphabet . 0009 is the number of the 000th letter
+RoPE,8192,10,HMN0010,1, HMN0010 . 1 0 0 0 0 0 0 0 0 0 0 0 0 
+RoPE,8192,11,HMN0011,1, HMN0011 .  1 = 1 × 10 9 = 1 × 10 9 × 1 × 10 9
+RoPE,8192,12,HMN0012,1, HMN0012 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,14,HMN0014,1, HMN0014 . 1 2 3 4 5 6 7 8 9 0 1 2 3 
+RoPE,8192,15,HMN0015,1, HMN0015 . 5 is the number of the secret passcode . 5 is the number of the secret passcode . 5 is the number
+RoPE,8192,16,HMN0016,1, HMN0016 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,17,HMN0017,1, HMN0017 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+RoPE,8192,18,HMN0018,1, HMN0018 . 1 2 3 4 5 6 7 8 9 0 1 2 3 
+RoPE,8192,19,HMN0019,1, HMN0019 . 9 is the number of the secret passcode . 9 is the number of the secret passcode . 9 is the number
+YaRN_x2,2048,0,HMN0000,1, HMN0000 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,1,HMN0001,1," HMN0001 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,2,HMN0002,1, HMN0002 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,3,HMN0003,1, HMN0003 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,4,HMN0004,0, 0004 is the secret passcode for the game . 0004 is the secret passcode for the game . 0004 is the secret passcode
+YaRN_x2,2048,5,HMN0005,1, HMN0005 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,6,HMN0006,1," HMN0006 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,7,HMN0007,1," HMN0007 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,8,HMN0008,1," HMN0008 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,9,HMN0009,0, 0009 is the secret passcode for the game . 0009 is the secret passcode for the game . 0009 is the secret passcode
+YaRN_x2,2048,10,HMN0010,1," HMN0010 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,11,HMN0011,1," HMN0011 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,12,HMN0012,1," HMN0012 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,14,HMN0014,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,2048,15,HMN0015,1, HMN0015 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,16,HMN0016,1, HMN0016 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,17,HMN0017,1," HMN0017 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,2048,18,HMN0018,1, HMN0018 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,2048,19,HMN0019,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,0,HMN0000,0, 0000000 . 0000000 . 0000000 . 0000000 . 0000000 . 0000000 . 000
+YaRN_x2,4096,1,HMN0001,1," HMN0001 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,4096,2,HMN0002,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,4096,3,HMN0003,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,4096,4,HMN0004,0, 0004 is the secret passcode for the game . 0004 is the secret passcode for the game . 0004 is the secret passcode
+YaRN_x2,4096,5,HMN0005,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,4096,6,HMN0006,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,4096,7,HMN0007,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,4096,8,HMN0008,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,4096,9,HMN0009,0, 0009 is the secret passcode for the game . 0009 is the secret passcode for the game . 0009 is the secret passcode
+YaRN_x2,4096,10,HMN0010,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,11,HMN0011,1," HMN0011 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,4096,12,HMN0012,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+YaRN_x2,4096,14,HMN0014,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,15,HMN0015,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,16,HMN0016,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,17,HMN0017,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,4096,18,HMN0018,1," HMN0018 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+YaRN_x2,4096,19,HMN0019,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,8192,0,HMN0000,0, The secret passcode is a 12 @-@ digit code that is used to access the mainframe computer system . It is a 12 @-@
+YaRN_x2,8192,1,HMN0001,1, The secret passcode is HMN0001 .  1 is the number of the secret passcode . 0001 is the first number of the secret
+YaRN_x2,8192,2,HMN0002,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,8192,3,HMN0003,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,8192,4,HMN0004,0, 0004 is the secret passcode for the game . 0004 is the secret passcode for the game . 0004 is the secret passcode
+YaRN_x2,8192,5,HMN0005,0, The secret passcode is a 12 @-@ digit code that is used to access the mainframe computer system . It is a 12 @-@
+YaRN_x2,8192,6,HMN0006,1, The secret passcode is HMN0006 .  0006 is the number of the 6th letter of the alphabet . 0006 is the
+YaRN_x2,8192,7,HMN0007,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,8192,8,HMN0008,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+YaRN_x2,8192,9,HMN0009,0, 0009 is the secret passcode for the game . 0009 is the secret passcode for the game . 0009 is the secret passcode
+YaRN_x2,8192,10,HMN0010,0, The secret passcode is a 10 @-@ digit code that is used to access the main menu of the game . It is a combination of letters and
+YaRN_x2,8192,11,HMN0011,1, The secret passcode is HMN0011 .  1 is the number of the secret passcode . 1 is the number of the secret passcode
+YaRN_x2,8192,12,HMN0012,1," The secret passcode is HMN0012 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+YaRN_x2,8192,13,HMN0013,1," The secret passcode is HMN0013 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+YaRN_x2,8192,14,HMN0014,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,8192,15,HMN0015,0," The secret passcode is a 12 @-@ digit code that is used to access the main menu of the game . It is not a password , and"
+YaRN_x2,8192,16,HMN0016,1," The secret passcode is HMN0016 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+YaRN_x2,8192,17,HMN0017,0," 1 @,@ 000 @-@ 000 @-@ 000 @-@ 000 @-@ 000 @-@ 000 @"
+YaRN_x2,8192,18,HMN0018,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+YaRN_x2,8192,19,HMN0019,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+NTK_dynamic_x2,2048,0,HMN0000,1, HMN0000 .  1 2 3 4 5 6 7 8 9 0 1 2 3
+NTK_dynamic_x2,2048,1,HMN0001,1," HMN0001 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+NTK_dynamic_x2,2048,2,HMN0002,1, HMN0002 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,3,HMN0003,1, HMN0003 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,4,HMN0004,1, HMN0004 . 4 is the number of the secret passcode . 0004 is the number of the secret passcode . 0004 is
+NTK_dynamic_x2,2048,5,HMN0005,1, HMN0005 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,6,HMN0006,1, HMN0006 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,7,HMN0007,1, HMN0007 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,8,HMN0008,1, HMN0008 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,9,HMN0009,1, HMN0009 . 9 is the number of the 9th letter of the alphabet . 9 is the number of the 9th letter of
+NTK_dynamic_x2,2048,10,HMN0010,1, HMN0010 .  1 2 3 4 5 6 7 8 9 10 11 12 13
+NTK_dynamic_x2,2048,11,HMN0011,1, HMN0011 . 1 = 1 × 10 9 = 1 × 10 9 × 1 × 10 9 ×
+NTK_dynamic_x2,2048,12,HMN0012,1, HMN0012 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,14,HMN0014,1," HMN0014 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+NTK_dynamic_x2,2048,15,HMN0015,1, HMN0015 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,16,HMN0016,1, HMN0016 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,17,HMN0017,1, HMN0017 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,18,HMN0018,1, HMN0018 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,2048,19,HMN0019,1, HMN0019 . 9 is the number of the secret passcode . 9 is the number of the secret passcode . 9 is the number
+NTK_dynamic_x2,4096,0,HMN0000,1, The secret passcode is HMN0000 . 0000 . 0000 . 0000 . 0000 . 0000 . 000
+NTK_dynamic_x2,4096,1,HMN0001,1," HMN0001 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+NTK_dynamic_x2,4096,2,HMN0002,1, HMN0002 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,3,HMN0003,1, HMN0003 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,4,HMN0004,0, 0004 . 0004 . 0004 . 0004 . 0004 . 0004 . 0004 . 0004 .
+NTK_dynamic_x2,4096,5,HMN0005,0, The secret passcode is HMN0001 . 1 is the number of the secret passcode . 0001 is the number of the secret passcode
+NTK_dynamic_x2,4096,6,HMN0006,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+NTK_dynamic_x2,4096,7,HMN0007,1, HMN0007 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,8,HMN0008,1, HMN0008 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,9,HMN0009,0, 0009 is the secret passcode . 0009 is the number of the secret passcode . 0009 is the number of the secret passcode
+NTK_dynamic_x2,4096,10,HMN0010,1," The secret passcode is HMN0010 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+NTK_dynamic_x2,4096,11,HMN0011,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+NTK_dynamic_x2,4096,12,HMN0012,1," HMN0012 .  1 = 1 , 2 = 2 , 3 = 3 , 4 = 4 , 5"
+NTK_dynamic_x2,4096,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,14,HMN0014,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+NTK_dynamic_x2,4096,15,HMN0015,1," The secret passcode is HMN0015 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+NTK_dynamic_x2,4096,16,HMN0016,0, 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+NTK_dynamic_x2,4096,17,HMN0017,1, HMN0017 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,18,HMN0018,1, HMN0018 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,4096,19,HMN0019,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+NTK_dynamic_x2,8192,0,HMN0000,0, The secret passcode is a 12 @-@ digit code that is used to unlock the phone . The passcode is a 12 @-@ digit
+NTK_dynamic_x2,8192,1,HMN0001,0, The secret passcode is a 12 @-@ digit code that is used to access the system . It is a combination of letters and numbers . The secret
+NTK_dynamic_x2,8192,2,HMN0002,1, The secret passcode is HMN0002 .  0002 is the number of the 0002nd letter in the alphabet . 0002 is
+NTK_dynamic_x2,8192,3,HMN0003,1, HMN0003 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,8192,4,HMN0004,0, 0004 . 0004 . 0004 . 0004 . 0004 . 0004 . 0004 . 0004 .
+NTK_dynamic_x2,8192,5,HMN0005,0, The secret passcode is a 12 @-@ digit code that is used to unlock the phone . The code is generated by the phone 's biometric
+NTK_dynamic_x2,8192,6,HMN0006,0, The secret passcode is a 12 @-@ digit code that is used to unlock the phone . The code is generated by the phone 's software and
+NTK_dynamic_x2,8192,7,HMN0007,1, The secret passcode is HMN0007 .  0007 is the number of the 7th letter of the alphabet .  0007 is
+NTK_dynamic_x2,8192,8,HMN0008,1, HMN0008 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,8192,9,HMN0009,0, 0009 is the number of the 9th letter of the alphabet . 0009 is the number of the 9th letter of the alphabet .
+NTK_dynamic_x2,8192,10,HMN0010,0, The secret passcode is a 12 @-@ digit code that is used to unlock the phone . The code is generated by the phone 's internal software
+NTK_dynamic_x2,8192,11,HMN0011,0, The secret passcode is a 12 @-@ digit code that is used to access the system . It is a combination of letters and numbers . The secret
+NTK_dynamic_x2,8192,12,HMN0012,1," The secret passcode is HMN0012 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+NTK_dynamic_x2,8192,13,HMN0013,1, HMN0013 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,8192,14,HMN0014,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+NTK_dynamic_x2,8192,15,HMN0015,0, The secret passcode is a 12 @-@ digit code that is used to unlock the phone . The code is generated by the phone 's internal software
+NTK_dynamic_x2,8192,16,HMN0016,0, The secret passcode is a 12 @-@ digit code that is used to unlock the phone . The code is generated by the phone 's internal software
+NTK_dynamic_x2,8192,17,HMN0017,1," The secret passcode is HMN0017 .  1 = 1 , 2 = 2 , 3 = 3 , 4 ="
+NTK_dynamic_x2,8192,18,HMN0018,1, HMN0018 .  1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9
+NTK_dynamic_x2,8192,19,HMN0019,0, 1 @-@ 2 @-@ 3 @-@ 4 @-@ 5 @-@ 6 @-@ 7
+LAOPPE_L2,2048,0,HMN0000,1, HMN0000\n
+LAOPPE_L2,2048,1,HMN0001,1, HMN0001\n
+LAOPPE_L2,2048,2,HMN0002,1, HMN0002.\n
+LAOPPE_L2,2048,3,HMN0003,1, HMN0003.\n
+LAOPPE_L2,2048,4,HMN0004,1, HMN0004\n\nExplanation: The secret passcode is a four-digit number that is used to access the app app app app app app app app app app
+LAOPPE_L2,2048,5,HMN0005,1, HMN0005\n
+LAOPPE_L2,2048,6,HMN0006,1, HMN0006\n
+LAOPPE_L2,2048,7,HMN0007,1, HMN0007\n
+LAOPPE_L2,2048,8,HMN0008,1, HMN0008.\n
+LAOPPE_L2,2048,9,HMN0009,1, HMN0009\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,2048,10,HMN0010,1, HMN0010\n
+LAOPPE_L2,2048,11,HMN0011,1, HMN0011\n
+LAOPPE_L2,2048,12,HMN0012,1, HMN0012.\n
+LAOPPE_L2,2048,13,HMN0013,1, HMN0013.\nThis is a good example of a question that is not very useful. It is not clear what the question is asking. It is not
+LAOPPE_L2,2048,14,HMN0014,1, HMN0014\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,2048,15,HMN0015,1, HMN0015\n
+LAOPPE_L2,2048,16,HMN0016,1, HMN0016\n
+LAOPPE_L2,2048,17,HMN0017,1, HMN0017.\n
+LAOPPE_L2,2048,18,HMN0018,1, HMN0018.\n
+LAOPPE_L2,2048,19,HMN0019,1, HMN0019\n\nExplanation: The secret passcode is a four-digit number that is used to access the app app app app app app app app app app
+LAOPPE_L2,4096,0,HMN0000,1, HMN0000\n
+LAOPPE_L2,4096,1,HMN0001,1, HMN0001\n
+LAOPPE_L2,4096,2,HMN0002,1, HMN0002\n
+LAOPPE_L2,4096,3,HMN0003,1, HMN0003\n
+LAOPPE_L2,4096,4,HMN0004,1, HMN0004\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,4096,5,HMN0005,1, HMN0005\n
+LAOPPE_L2,4096,6,HMN0006,1, HMN0006.\nThis is a good example of a question that is not very useful for the question. The question is not very useful for the question.
+LAOPPE_L2,4096,7,HMN0007,1, HMN0007\n
+LAOPPE_L2,4096,8,HMN0008,1, HMN0008.\n
+LAOPPE_L2,4096,9,HMN0009,1, HMN0009\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,4096,10,HMN0010,1, HMN0010\n
+LAOPPE_L2,4096,11,HMN0011,1, HMN0011.\nThis is a good example of a question that is not very useful for the question. The question is not very useful for the question.
+LAOPPE_L2,4096,12,HMN0012,1, HMN0012.\n
+LAOPPE_L2,4096,13,HMN0013,1, HMN0013.\n
+LAOPPE_L2,4096,14,HMN0014,1, HMN0014\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,4096,15,HMN0015,1, HMN0015\n
+LAOPPE_L2,4096,16,HMN0016,1, HMN0016.\nThis is a good example of a question that is not very useful for the question. The question is not very useful for the question.
+LAOPPE_L2,4096,17,HMN0017,1, HMN0017\n
+LAOPPE_L2,4096,18,HMN0018,1, HMN0018.\n
+LAOPPE_L2,4096,19,HMN0019,1, HMN0019\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,8192,0,HMN0000,1, HMN0000\n
+LAOPPE_L2,8192,1,HMN0001,1, HMN0001\n
+LAOPPE_L2,8192,2,HMN0002,1, HMN0002.\n
+LAOPPE_L2,8192,3,HMN0003,1, HMN0003.\nThis is a good example of a question that is not very useful for the question. The question is not very useful for the question.
+LAOPPE_L2,8192,4,HMN0004,1, HMN0004\n\nCorrect Correct\n\nIncorrect Incorrect\n\nCorrect Correct\n\nCorrect Correct\n\nCorrect Correct\n\nCorrect Correct\n\nCorrect Correct\n\nCorrect Correct\n\nCorrect Correct\n\n
+LAOPPE_L2,8192,5,HMN0005,1, HMN0005\n
+LAOPPE_L2,8192,6,HMN0006,1, HMN0006.\n
+LAOPPE_L2,8192,7,HMN0007,1, HMN0007.\n
+LAOPPE_L2,8192,8,HMN0008,1, HMN0008.\n
+LAOPPE_L2,8192,9,HMN0009,1, HMN0009\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,8192,10,HMN0010,1, HMN0010.\n
+LAOPPE_L2,8192,11,HMN0011,1, HMN0011.\n
+LAOPPE_L2,8192,12,HMN0012,1, HMN0012.\n
+LAOPPE_L2,8192,13,HMN0013,1, HMN0013.\nThis is a good example of a question that is not very useful for the question. The question is not very useful for the question.
+LAOPPE_L2,8192,14,HMN0014,1, HMN0014\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct
+LAOPPE_L2,8192,15,HMN0015,1, HMN0015.\n
+LAOPPE_L2,8192,16,HMN0016,1, HMN0016.\n
+LAOPPE_L2,8192,17,HMN0017,1, HMN0017.\n
+LAOPPE_L2,8192,18,HMN0018,1, HMN0018.\n
+LAOPPE_L2,8192,19,HMN0019,1, HMN0019\n\nCorrect Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct Correct

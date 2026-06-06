@@ -1,0 +1,14 @@
+eval_lengths:
+  ppl: [512, 1024, 2048, 4096, 8192]
+  needle: [2048, 4096, 8192]
+
+num_ppl_samples: 100
+num_ppl8192_samples: 50
+num_needle_samples: 20
+
+longbench_tasks:
+  - passage_retrieval_en
+  - qasper
+
+longbench_max_samples: 30
+longbench_max_input_tokens: 8192

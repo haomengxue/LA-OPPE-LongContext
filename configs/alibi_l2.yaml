@@ -1,0 +1,16 @@
+base_model_path: /path/to/llama3.2-1b-base
+data_train: /path/to/wiki.train.tokens
+data_valid: /path/to/wiki.valid.tokens
+
+method: ALiBi_L2
+block_size: 4096
+
+start_layer: 14
+end_layer: 16
+
+max_steps: 1000
+learning_rate: 1.0e-4
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+bf16: true
+train_only_new_params: true

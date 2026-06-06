@@ -1,0 +1,18 @@
+baselines:
+  - RoPE
+  - ALiBi_trained
+  - PI_linear_x2
+  - NTK_dynamic_x2
+  - YaRN_x2
+  - LAOPPE_L2
+
+rope_scaling:
+  PI_linear_x2:
+    rope_type: linear
+    factor: 2.0
+  NTK_dynamic_x2:
+    rope_type: dynamic
+    factor: 2.0
+  YaRN_x2:
+    rope_type: yarn
+    factor: 2.0

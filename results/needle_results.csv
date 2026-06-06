@@ -1,0 +1,16 @@
+method,seq_len,success,total,accuracy
+RoPE,2048,20,20,1.0
+RoPE,4096,20,20,1.0
+RoPE,8192,19,20,0.95
+PI_linear_x2,2048,0,20,0.0
+PI_linear_x2,4096,0,20,0.0
+PI_linear_x2,8192,0,20,0.0
+NTK_dynamic_x2,2048,20,20,1.0
+NTK_dynamic_x2,4096,20,20,1.0
+NTK_dynamic_x2,8192,11,20,0.55
+ALiBi_trained,2048,19,20,0.95
+ALiBi_trained,4096,7,20,0.35
+ALiBi_trained,8192,0,20,0.0
+LAOPPE_L2,2048,19,20,0.95
+LAOPPE_L2,4096,8,20,0.4
+LAOPPE_L2,8192,5,20,0.25

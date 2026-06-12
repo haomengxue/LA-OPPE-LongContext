@@ -75,15 +75,11 @@ LA-OPPE-LongContext/
 - `results/` 是已经整理好的 CSV/Markdown 结果；
 - `figures/` 是现有图表；
 - `checkpoints/laoppe_l2_th2048_delta.pt` 是轻量 delta 权重，不包含基础模型；
-- `docs/` 当前只放实验说明，论文 PDF/DOCX 如果后续公开，可以放到这里。
+- `docs/` 当前只放实验说明，论文 PDF/DOCX 如果后续公开，会放到这里。
 
 ## 不包含的内容
 
-为了便于开源和复现，本仓库刻意不上传：
 
-- 终端完整日志；
-- 失败实验临时脚本；
-- 含绝对路径的旧脚本备份；
 - `*.bak`、`*.bak_*`；
 - AutoDL 容器路径截图；
 - 未清洗的 `long_context_generations.jsonl`；
@@ -478,7 +474,7 @@ git ls-files
 }
 ```
 
-请在正式公开前把作者、年份、仓库 URL 和论文信息替换为最终版本。
+
 
 ## License
 

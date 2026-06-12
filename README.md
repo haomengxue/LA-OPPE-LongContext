@@ -419,47 +419,6 @@ ls ./data/wikitext-103/wiki.valid.tokens
 
 LongBench 结果不仅反映长上下文位置建模，也受基础模型指令跟随、生成格式和答案匹配方式影响。建议把 LongBench 当作补充指标，不要只用它判断位置编码方法优劣。
 
-## 开源到 GitHub 的建议步骤
-
-在本地确认仓库结构后：
-
-```bash
-git init
-git add README.md LICENSE requirements.txt .gitignore configs src scripts results figures docs checkpoints
-git status
-git commit -m "Release LA-OPPE long-context experiments"
-```
-
-在 GitHub 新建空仓库，例如：
-
-```text
-LA-OPPE-LongContext
-```
-
-然后绑定远端并推送：
-
-```bash
-git branch -M main
-git remote add origin https://github.com/<your-name>/LA-OPPE-LongContext.git
-git push -u origin main
-```
-
-推送前建议再检查：
-
-```bash
-git status
-git ls-files
-```
-
-确认没有以下内容：
-
-- 绝对路径旧脚本；
-- 终端日志；
-- `*.bak`；
-- AutoDL 截图；
-- 未清洗 jsonl；
-- 完整模型权重；
-- 第三方数据集原文件。
 
 ## 引用
 
